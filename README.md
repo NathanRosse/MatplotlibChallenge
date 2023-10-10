@@ -1,3 +1,4 @@
+
 # MatplotlibChallenge
 
 I always seem to have issues with GitHub and cloning/pushing my repos so hopefully I did it correctly this time.
